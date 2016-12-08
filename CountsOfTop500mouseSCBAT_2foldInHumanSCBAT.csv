@@ -1,0 +1,505 @@
+mouse_Entrez_ID,mouse_Gene,mouse_scBAT_mean_count,mouse_WAT_mean_count,mouse_scBATvsWAT_LR,human_Genbank_accession,human_Gene,human_scBAT_mean_FPKM,human_WAT_mean_FPKM,human_scBATvsWAT_LR
+20249,Scd1,431466.6667,259200.6667,1.3952,human ortholog not found or not included in human RNA-seq dataset
+14104,Fasn,287215.3333,104280.3333,2.1158,human ortholog not found or not included in human RNA-seq dataset
+11429,Aco2,94832.3333,17043.3333,3.1314,human ortholog not found or not included in human RNA-seq dataset
+14555,Gpd1,87405.3333,31272.6667,2.1255,human ortholog not found or not included in human RNA-seq dataset
+11947,Atp5b,73278,32951.6667,1.8285,human ortholog not found or not included in human RNA-seq dataset
+107476,Acaca,65739.6667,24488,2.0663,human ortholog not found or not included in human RNA-seq dataset
+11946,Atp5a1,59849,22998,2.0673,NM_001001935,ATP5A1,1.85,0.64,1.54
+19194,Bpifa2,55308.6667,263.6667,8.4151,human ortholog not found or not included in human RNA-seq dataset
+21881,Tkt,55204.3333,21278.6667,2.051,NM_001258028,TKT,0.99,0.43,1.2
+11722,Amy1,54907.3333,8778.6667,3.2429,human ortholog not found or not included in human RNA-seq dataset
+18534,Pck1,54492.3333,40092,1.0819,human ortholog not found or not included in human RNA-seq dataset
+14645,Glul,53270.6667,30377,1.4532,human ortholog not found or not included in human RNA-seq dataset
+66853,Pnpla2,51881.3333,40199.3333,1.0087,human ortholog not found or not included in human RNA-seq dataset
+98660,Atp1a2,51820.6667,27945.3333,1.536,human ortholog not found or not included in human RNA-seq dataset
+66945,Sdha,51427.3333,17336,2.2353,human ortholog not found or not included in human RNA-seq dataset
+11674,Aldoa,51126.6667,21202.3333,1.9406,NM_001127617,ALDOA,2.72,0.89,1.61
+104112,Acly,49664,17314.3333,2.195,human ortholog not found or not included in human RNA-seq dataset
+18293,Ogdh,48681.3333,11127,2.8051,human ortholog not found or not included in human RNA-seq dataset
+12974,Cs,46012.6667,13307.3333,2.4611,human ortholog not found or not included in human RNA-seq dataset
+11370,Acadvl,44419,8681.3333,3.009,NM_001270448,ACADVL,1.2,0.19,2.64
+100705,Acacb,43539,14623,2.1844,human ortholog not found or not included in human RNA-seq dataset
+67800,Dgat2,41675.3333,28088.3333,1.223,human ortholog not found or not included in human RNA-seq dataset
+11363,Acadl,37778.6667,9527.3333,2.6377,NM_001608,ACADL,3.41,1.28,1.42
+97212,Hadha,37399.6667,9299,2.6732,human ortholog not found or not included in human RNA-seq dataset
+18746,Pkm,36883.3333,14302.3333,2.0721,human ortholog not found or not included in human RNA-seq dataset
+231086,Hadhb,35809.6667,7935.3333,2.828,human ortholog not found or not included in human RNA-seq dataset
+52538,Acaa2,35610.6667,5431.3333,3.3679,human ortholog not found or not included in human RNA-seq dataset
+67426,Adck3,34471.3333,3112.6667,4.1347,human ortholog not found or not included in human RNA-seq dataset
+21835,Thrsp,34284.3333,16265,1.7268,human ortholog not found or not included in human RNA-seq dataset
+20599,Smr3a,33209.6667,181.3333,8.2292,human ortholog not found or not included in human RNA-seq dataset
+14778,Gpx3,33053.3333,15854.3333,1.7119,human ortholog not found or not included in human RNA-seq dataset
+18597,Pdha1,32596.6667,10022.3333,2.363,NM_001173456,PDHA1,1.77,0.28,2.64
+14683,Gnas,32556.3333,17350.3333,1.604,NM_001077488,GNAS,2.75,1.33,1.05
+22227,Ucp1,32342,581,6.4802,NM_021833,UCP1,2.87,0.68,2.07
+11364,Acadm,31336,9465,2.3716,NM_000016,ACADM,63.9,29.64,1.11
+212862,Chpt1,30466,18738,1.3435,human ortholog not found or not included in human RNA-seq dataset
+170439,Elovl6,28992.6667,6264.6667,2.8562,human ortholog not found or not included in human RNA-seq dataset
+12683,Cidea,28813.6667,3167.6667,3.8069,human ortholog not found or not included in human RNA-seq dataset
+15107,Hadh,28563,10187,2.1359,human ortholog not found or not included in human RNA-seq dataset
+19088,Prkar2b,27751.3333,18351.3333,1.2286,human ortholog not found or not included in human RNA-seq dataset
+27273,Pdk4,27652.6667,4372.6667,3.2966,NM_002612,PDK4,174.72,51.82,1.75
+15526,Hspa9,27223.3333,11024,1.9815,human ortholog not found or not included in human RNA-seq dataset
+66092,Ghitm,27160.3333,11070.3333,1.971,human ortholog not found or not included in human RNA-seq dataset
+16828,Ldha,26792.3333,17992.6667,1.2507,NM_001165416,LDHA,1.14,0.53,1.1
+16828,Ldha,26792.3333,17992.6667,1.2507,NM_001165414,LDHA,8.85,3.51,1.33
+14571,Gpd2,26778.3333,4348,3.2867,human ortholog not found or not included in human RNA-seq dataset
+20916,Sucla2,26164,4670,3.1421,NM_003850,SUCLA2,42.24,16.83,1.33
+22273,Uqcrc1,25765.3333,6779.6667,2.6019,human ortholog not found or not included in human RNA-seq dataset
+67834,Idh3a,25036,6591.6667,2.5814,NM_005530,IDH3A,68.77,30.99,1.15
+78920,Dlst,24956,6660.3333,2.583,human ortholog not found or not included in human RNA-seq dataset
+14433,Gapdh,24264,12065.6667,1.7032,human ortholog not found or not included in human RNA-seq dataset
+170718,Idh3b,22975.3333,6147.6667,2.5766,human ortholog not found or not included in human RNA-seq dataset
+67003,Uqcrc2,22764,7754.6667,2.2362,human ortholog not found or not included in human RNA-seq dataset
+14751,Gpi1,21129.3333,9647,1.8425,human ortholog not found or not included in human RNA-seq dataset
+110842,Etfa,21095.6667,7711.6667,2.1036,human ortholog not found or not included in human RNA-seq dataset
+226646,Ndufs2,21092.6667,7091,2.2471,human ortholog not found or not included in human RNA-seq dataset
+51798,Ech1,20940.3333,8562.3333,1.9499,human ortholog not found or not included in human RNA-seq dataset
+110095,Pygl,20002.3333,6732.3333,2.2183,NM_001163940,PYGL,10.76,2.64,2.03
+229709,Ahcyl1,19890,5351.3333,2.5766,human ortholog not found or not included in human RNA-seq dataset
+12583,Cdo1,19802.3333,13523.3333,1.2053,NM_001801,CDO1,110.66,42.29,1.39
+68263,Pdhb,19687,6102,2.3604,human ortholog not found or not included in human RNA-seq dataset
+66445,Cyc1,19672.3333,5173.3333,2.6012,human ortholog not found or not included in human RNA-seq dataset
+13382,Dld,18964.6667,6014.3333,2.3197,NM_000108,DLD,68,30.9,1.14
+104776,Aldh6a1,18783.3333,13135,1.154,human ortholog not found or not included in human RNA-seq dataset
+22628,Ywhag,18626.3333,14550,1.007,human ortholog not found or not included in human RNA-seq dataset
+110446,Acat1,18463.3333,6788.3333,2.0969,human ortholog not found or not included in human RNA-seq dataset
+12908,Crat,18458.6667,7290.3333,1.9763,human ortholog not found or not included in human RNA-seq dataset
+15929,Idh3g,18449.6667,5597.3333,2.3951,human ortholog not found or not included in human RNA-seq dataset
+56451,Suclg1,18347,3785.3333,2.9601,human ortholog not found or not included in human RNA-seq dataset
+17449,Mdh1,18280.3333,10556.3333,1.4647,human ortholog not found or not included in human RNA-seq dataset
+17436,Me1,17995,12568,1.1565,human ortholog not found or not included in human RNA-seq dataset
+17448,Mdh2,17959.3333,7144.3333,2.0098,human ortholog not found or not included in human RNA-seq dataset
+17995,Ndufv1,17930.3333,4467,2.6699,human ortholog not found or not included in human RNA-seq dataset
+12857,Cox4i1,17916,8383.6667,1.7756,human ortholog not found or not included in human RNA-seq dataset
+13358,Slc25a1,17355.3333,9603,1.5039,human ortholog not found or not included in human RNA-seq dataset
+13419,Dnase1,17258.3333,155.6667,7.5198,human ortholog not found or not included in human RNA-seq dataset
+93747,Echs1,17243.6667,7128.3333,1.9286,human ortholog not found or not included in human RNA-seq dataset
+12861,Cox6a1,17185.6667,6144.3333,2.1504,human ortholog not found or not included in human RNA-seq dataset
+117198,Ivns1abp,16776.6667,11657.3333,1.2249,human ortholog not found or not included in human RNA-seq dataset
+14245,Lpin1,16754,9356,1.4669,human ortholog not found or not included in human RNA-seq dataset
+67512,Agpat2,16563,8101,1.679,human ortholog not found or not included in human RNA-seq dataset
+110826,Etfb,16464.3333,5791.6667,2.1634,human ortholog not found or not included in human RNA-seq dataset
+235339,Dlat,16438.3333,4245.6667,2.6061,human ortholog not found or not included in human RNA-seq dataset
+67680,Sdhb,16013,5079.6667,2.3312,human ortholog not found or not included in human RNA-seq dataset
+21351,Taldo1,15930,8436.6667,1.5924,human ortholog not found or not included in human RNA-seq dataset
+246049,Slc36a2,15828.6667,5101,2.266,human ortholog not found or not included in human RNA-seq dataset
+12353,Car6,15796,33.3333,9.5519,human ortholog not found or not included in human RNA-seq dataset
+67460,Decr1,15670,5942,2.0404,human ortholog not found or not included in human RNA-seq dataset
+242721,Klhdc7a,15567,5414,2.1453,human ortholog not found or not included in human RNA-seq dataset
+227197,Ndufs1,15510.3333,4362,2.4999,human ortholog not found or not included in human RNA-seq dataset
+23917,Impdh1,15361,2535.6667,3.3068,NM_001142575,IMPDH1,3.44,1.38,1.31
+66925,Sdhd,15332.3333,4272.6667,2.5178,human ortholog not found or not included in human RNA-seq dataset
+66841,Etfdh,15027.6667,3567,2.7289,human ortholog not found or not included in human RNA-seq dataset
+13167,Dbi,14967.3333,11186.6667,1.0824,NM_020548,DBI,1.45,0.48,1.6
+58909,Fam13a,14836.6667,9998.3333,1.2002,human ortholog not found or not included in human RNA-seq dataset
+67273,Ndufa10,14777.6667,4029.6667,2.5424,human ortholog not found or not included in human RNA-seq dataset
+76614,Immt,14764.3333,5758.6667,2.0325,human ortholog not found or not included in human RNA-seq dataset
+625249,Gpx4,14704,7482.3333,1.6371,human ortholog not found or not included in human RNA-seq dataset
+66694,Uqcrfs1,14633.6667,4386,2.4108,human ortholog not found or not included in human RNA-seq dataset
+244416,Ppp1r3b,14624.3333,1354,4.0634,human ortholog not found or not included in human RNA-seq dataset
+17884,Myh4,14597,247.6667,6.618,human ortholog not found or not included in human RNA-seq dataset
+14194,Fh1,14516.6667,4207,2.4622,human ortholog not found or not included in human RNA-seq dataset
+20528,Slc2a4,14442,5778.6667,1.9485,human ortholog not found or not included in human RNA-seq dataset
+15510,Hspd1,14310.6667,7516,1.6122,human ortholog not found or not included in human RNA-seq dataset
+72503,2610507B11Rik,14177.6667,10891,1.0756,human ortholog not found or not included in human RNA-seq dataset
+16922,Phyh,14105.3333,4436.6667,2.3237,NM_001037537,PHYH,1.54,0.66,1.22
+230125,Slc25a51,13996.3333,4841.6667,2.2029,human ortholog not found or not included in human RNA-seq dataset
+116939,Pnpla3,13694,5242,2.0168,human ortholog not found or not included in human RNA-seq dataset
+18641,Pfkl,13663.6667,4039.3333,2.4211,human ortholog not found or not included in human RNA-seq dataset
+226849,Ppp2r5a,13646.6667,10014.3333,1.1197,human ortholog not found or not included in human RNA-seq dataset
+66904,Pccb,13394.6667,5717,1.8719,human ortholog not found or not included in human RNA-seq dataset
+11949,Atp5c1,13187,7843,1.4362,human ortholog not found or not included in human RNA-seq dataset
+59027,Nampt,13184,5625.6667,1.8831,human ortholog not found or not included in human RNA-seq dataset
+67264,Ndufb8,13113.3333,3794.6667,2.4496,human ortholog not found or not included in human RNA-seq dataset
+12039,Bckdha,13058.3333,4932.3333,2.055,NM_001164783,BCKDHA,0.95,0,9.96
+11950,Atp5f1,12746.3333,5854,1.8146,human ortholog not found or not included in human RNA-seq dataset
+12868,Cox8a,12579.6667,6425,1.6414,human ortholog not found or not included in human RNA-seq dataset
+11655,Alas1,12431,7975.6667,1.2669,human ortholog not found or not included in human RNA-seq dataset
+78894,Aacs,12429.3333,9315.6667,1.0444,human ortholog not found or not included in human RNA-seq dataset
+66218,Ndufb9,12229.6667,4625,2.0661,human ortholog not found or not included in human RNA-seq dataset
+20656,Sod2,12193.3333,3860.3333,2.3199,human ortholog not found or not included in human RNA-seq dataset
+67719,2310057J18Rik,12097.3333,19.3333,9.9332,human ortholog not found or not included in human RNA-seq dataset
+66612,Ormdl3,12070.3333,8351,1.1748,human ortholog not found or not included in human RNA-seq dataset
+12858,Cox5a,11938,3054.6667,2.6539,human ortholog not found or not included in human RNA-seq dataset
+68614,Letmd1,11883.6667,1782.3333,3.4324,human ortholog not found or not included in human RNA-seq dataset
+102247,Agpat6,11859.3333,5975.6667,1.6443,human ortholog not found or not included in human RNA-seq dataset
+15277,Hk2,11844.3333,3275.3333,2.4834,human ortholog not found or not included in human RNA-seq dataset
+110323,Cox6b1,11630,4404,2.0743,human ortholog not found or not included in human RNA-seq dataset
+11520,Plin2,11528.6667,7147,1.33,human ortholog not found or not included in human RNA-seq dataset
+60525,Acss2,11524.3333,4726.6667,1.9527,human ortholog not found or not included in human RNA-seq dataset
+58875,Hibadh,11522.3333,6255.6667,1.5351,human ortholog not found or not included in human RNA-seq dataset
+17992,Ndufa4,11509.3333,4517.3333,2.0218,human ortholog not found or not included in human RNA-seq dataset
+19013,Ppara,11432.6667,1017.6667,4.1055,human ortholog not found or not included in human RNA-seq dataset
+76178,Coa5,11359,5743.3333,1.6823,human ortholog not found or not included in human RNA-seq dataset
+13177,Eci1,11342.6667,3675,2.2734,human ortholog not found or not included in human RNA-seq dataset
+28080,Atp5o,11314.3333,4398,2.0415,human ortholog not found or not included in human RNA-seq dataset
+74148,Cluh,11284.6667,6829,1.3838,human ortholog not found or not included in human RNA-seq dataset
+14712,Gnpat,11262.3333,6212.6667,1.5264,human ortholog not found or not included in human RNA-seq dataset
+66043,Atp5d,11259.3333,4064.6667,2.1591,human ortholog not found or not included in human RNA-seq dataset
+219189,Vwa8,10942.6667,3387.6667,2.3312,human ortholog not found or not included in human RNA-seq dataset
+16832,Ldhb,10919.3333,1710.6667,3.3269,human ortholog not found or not included in human RNA-seq dataset
+19046,Ppp1cb,10701.6667,6376.6667,1.4646,human ortholog not found or not included in human RNA-seq dataset
+170731,Mfn2,10646,6402.6667,1.3847,human ortholog not found or not included in human RNA-seq dataset
+66108,Ndufa9,10589,3663,2.2063,human ortholog not found or not included in human RNA-seq dataset
+69202,Ptms,10523,6999.6667,1.2615,human ortholog not found or not included in human RNA-seq dataset
+13138,Dag1,10508.6667,6480.3333,1.3421,human ortholog not found or not included in human RNA-seq dataset
+67283,Slc25a19,10503.3333,2857.6667,2.5496,human ortholog not found or not included in human RNA-seq dataset
+19131,Prh1,10406,15.3333,10.02,human ortholog not found or not included in human RNA-seq dataset
+11409,Acads,10341.6667,3927.6667,2.0451,human ortholog not found or not included in human RNA-seq dataset
+68585,Rtn4,10287.6667,6984.6667,1.2253,human ortholog not found or not included in human RNA-seq dataset
+56248,Ak3,10281,6154.6667,1.3933,NM_001199855,AK3,2.16,0.08,4.81
+56248,Ak3,10281,6154.6667,1.3933,NM_001199856,AK3,13.04,2.87,2.18
+103172,Chchd10,10267.6667,1853.3333,3.1244,human ortholog not found or not included in human RNA-seq dataset
+12896,Cpt2,10258.3333,4737.6667,1.7493,human ortholog not found or not included in human RNA-seq dataset
+56428,Mtch2,10044.6667,4402.6667,1.8546,human ortholog not found or not included in human RNA-seq dataset
+11937,Atp2a1,9990,245.6667,6.102,human ortholog not found or not included in human RNA-seq dataset
+16527,Kcnk3,9953,1733,3.1394,NM_002246,KCNK3,5.67,2.45,1.21
+67914,Coq9,9950.6667,3095.6667,2.3364,human ortholog not found or not included in human RNA-seq dataset
+71361,Aifm2,9870.6667,5745.3333,1.413,human ortholog not found or not included in human RNA-seq dataset
+14261,Fmo1,9864,5799.6667,1.4029,human ortholog not found or not included in human RNA-seq dataset
+14373,G0s2,9843.3333,3899,1.9487,human ortholog not found or not included in human RNA-seq dataset
+28169,Agpat3,9840.6667,4847,1.7124,human ortholog not found or not included in human RNA-seq dataset
+29811,Ndrg2,9820.6667,4431.6667,1.792,NM_201539,NDRG2,1.56,0.16,3.3
+29811,Ndrg2,9820.6667,4431.6667,1.792,NM_201541,NDRG2,2.16,0.82,1.41
+29811,Ndrg2,9820.6667,4431.6667,1.792,NM_201538,NDRG2,6.09,0.31,4.28
+29811,Ndrg2,9820.6667,4431.6667,1.792,NM_016250,NDRG2,1.23,0.09,3.71
+66142,Cox7b,9731.6667,2974,2.3899,human ortholog not found or not included in human RNA-seq dataset
+11739,Slc25a4,9700.3333,5527,1.4979,human ortholog not found or not included in human RNA-seq dataset
+66052,Sdhc,9649.3333,3777.6667,2.0217,human ortholog not found or not included in human RNA-seq dataset
+72900,Ndufv2,9534.6667,2947.3333,2.3736,human ortholog not found or not included in human RNA-seq dataset
+19299,Abcd3,9506.3333,3186.6667,2.2304,NM_001122674,ABCD3,5.46,2.21,1.3
+66576,Uqcrh,9465.3333,4153,1.8859,human ortholog not found or not included in human RNA-seq dataset
+22339,Vegfa,9445.3333,6416.6667,1.1914,NM_001171624,VEGFA,11.07,5.5,1.01
+68178,Cgnl1,9438.3333,5607,1.3817,human ortholog not found or not included in human RNA-seq dataset
+18186,Nrp1,9413.3333,7135.3333,1.0543,NM_001244972,NRP1,2.11,0.68,1.64
+11512,Adcy6,9411.3333,6557.3333,1.1875,human ortholog not found or not included in human RNA-seq dataset
+74185,Gbe1,9296.3333,3082,2.2447,human ortholog not found or not included in human RNA-seq dataset
+12859,Cox5b,9143.3333,3312,2.1427,human ortholog not found or not included in human RNA-seq dataset
+57279,Slc25a20,9110.3333,2045.3333,2.8105,human ortholog not found or not included in human RNA-seq dataset
+18655,Pgk1,9056.6667,3229,2.199,human ortholog not found or not included in human RNA-seq dataset
+11757,Prdx3,8979.6667,4094.6667,1.8006,human ortholog not found or not included in human RNA-seq dataset
+21991,Tpi1,8976.6667,6658.6667,1.0995,human ortholog not found or not included in human RNA-seq dataset
+12864,Cox6c,8967.3333,3519.3333,2.0272,human ortholog not found or not included in human RNA-seq dataset
+68015,Trap1,8965.3333,5192,1.4628,human ortholog not found or not included in human RNA-seq dataset
+66075,Chchd3,8944.6667,3364.3333,2.0936,human ortholog not found or not included in human RNA-seq dataset
+77219,Ptgr2,8935,3840.6667,1.8775,human ortholog not found or not included in human RNA-seq dataset
+70984,4931406C07Rik,8898.3333,4811.6667,1.5234,human ortholog not found or not included in human RNA-seq dataset
+22272,Uqcrq,8877,2818,2.325,human ortholog not found or not included in human RNA-seq dataset
+22333,Vdac1,8798.6667,4716.3333,1.5795,human ortholog not found or not included in human RNA-seq dataset
+11640,Akap1,8789.3333,2238,2.6016,human ortholog not found or not included in human RNA-seq dataset
+13830,Stom,8788,3183.6667,2.1224,human ortholog not found or not included in human RNA-seq dataset
+71679,Atp5h,8777.6667,4205.6667,1.7569,NM_001003785,ATP5H,2.11,0.45,2.23
+27280,Phlda3,8755.3333,5879,1.2052,human ortholog not found or not included in human RNA-seq dataset
+18747,Prkaca,8738.3333,4593.6667,1.5855,human ortholog not found or not included in human RNA-seq dataset
+18604,Pdk2,8665.6667,2942,2.1968,human ortholog not found or not included in human RNA-seq dataset
+22245,Uck1,8594.3333,2735,2.3142,human ortholog not found or not included in human RNA-seq dataset
+102632,Acad11,8576,5543,1.2557,human ortholog not found or not included in human RNA-seq dataset
+227095,Hibch,8541,4727.3333,1.4949,human ortholog not found or not included in human RNA-seq dataset
+381833,Prb1,8447,12.3333,10.0361,human ortholog not found or not included in human RNA-seq dataset
+241694,Ralgapa2,8284.3333,4889.6667,1.4086,human ortholog not found or not included in human RNA-seq dataset
+22359,Vldlr,8206.6667,2818.6667,2.1598,human ortholog not found or not included in human RNA-seq dataset
+57259,Tob2,8182.6667,3743.3333,1.796,human ortholog not found or not included in human RNA-seq dataset
+68738,Acss1,8162.6667,1672.3333,3.0575,NM_001252676,ACSS1,2.49,0.9,1.46
+269951,Idh2,8081.6667,4027,1.6751,human ortholog not found or not included in human RNA-seq dataset
+28295,D10Jhu81e,8059.6667,2984,2.1012,human ortholog not found or not included in human RNA-seq dataset
+70456,Mpc2,8057.3333,2852.3333,2.1626,human ortholog not found or not included in human RNA-seq dataset
+11459,Acta1,7958.3333,539.6667,4.5675,human ortholog not found or not included in human RNA-seq dataset
+108654,Fam210a,7869.6667,2399,2.3874,NM_001098801,FAM210A,1.16,0.53,1.13
+108654,Fam210a,7869.6667,2399,2.3874,NM_152352,FAM210A,16.2,7.54,1.1
+72157,Pgm2,7798,5922.3333,1.0479,human ortholog not found or not included in human RNA-seq dataset
+75735,Pank1,7664,587,4.3748,NM_148977,PANK1,0.96,0.44,1.13
+110208,Pgd,7639.3333,5170,1.2373,human ortholog not found or not included in human RNA-seq dataset
+68943,Pink1,7604,5358.3333,1.1759,human ortholog not found or not included in human RNA-seq dataset
+67326,1700037H04Rik,7591.6667,3734.6667,1.6527,human ortholog not found or not included in human RNA-seq dataset
+54403,Slc4a4,7552.6667,864.6667,3.7467,human ortholog not found or not included in human RNA-seq dataset
+57423,Atp5j2,7533.6667,2821.3333,2.1006,human ortholog not found or not included in human RNA-seq dataset
+14004,Chchd2,7505.3333,4400,1.449,human ortholog not found or not included in human RNA-seq dataset
+56348,Hsd17b12,7479,5077.3333,1.2147,human ortholog not found or not included in human RNA-seq dataset
+104130,Ndufb11,7471.6667,3040.6667,1.9908,human ortholog not found or not included in human RNA-seq dataset
+72479,Hsdl2,7464.6667,4104.6667,1.514,human ortholog not found or not included in human RNA-seq dataset
+68349,Ndufs3,7369,2608.6667,2.1764,human ortholog not found or not included in human RNA-seq dataset
+67530,Uqcrb,7361.6667,2561.3333,2.1952,human ortholog not found or not included in human RNA-seq dataset
+13063,Cycs,7358.6667,2211.3333,2.4107,NM_018947,CYCS,228.73,93.24,1.29
+18716,Pip,7259,15,9.5958,human ortholog not found or not included in human RNA-seq dataset
+74143,Opa1,7254.6667,3324.6667,1.8133,NM_130836,OPA1,8.04,4.01,1
+12866,Cox7a2,7212,2956,1.9599,human ortholog not found or not included in human RNA-seq dataset
+104215,Rhoq,7164.6667,5008.6667,1.1734,human ortholog not found or not included in human RNA-seq dataset
+16439,Itpr2,7153,2958,2.0386,human ortholog not found or not included in human RNA-seq dataset
+110821,Pcca,7115.3333,3143.6667,1.8263,NM_001127692,PCCA,2.6,0.69,1.92
+66046,Ndufb5,7112,2328.6667,2.2941,human ortholog not found or not included in human RNA-seq dataset
+14137,Fdft1,7038.3333,1987.6667,2.4757,human ortholog not found or not included in human RNA-seq dataset
+68653,Samm50,7027.6667,2860.3333,1.9992,human ortholog not found or not included in human RNA-seq dataset
+54683,Prdx5,6978.6667,3986.3333,1.4784,human ortholog not found or not included in human RNA-seq dataset
+68066,Slc25a39,6915,3120.6667,1.8136,human ortholog not found or not included in human RNA-seq dataset
+19016,Pparg,6910,4810.3333,1.1795,human ortholog not found or not included in human RNA-seq dataset
+12499,Entpd5,6862.3333,3327,1.7357,human ortholog not found or not included in human RNA-seq dataset
+56551,Txn2,6735.6667,3332,1.7095,human ortholog not found or not included in human RNA-seq dataset
+66594,Uqcr11,6719,2400.6667,2.1447,human ortholog not found or not included in human RNA-seq dataset
+14936,Gys1,6642.6667,3810.3333,1.4457,NM_001161587,GYS1,5.64,1.35,2.06
+320939,5930403L14Rik,6596,1514,2.705,human ortholog not found or not included in human RNA-seq dataset
+228026,Pdk1,6595.6667,3812.6667,1.5321,human ortholog not found or not included in human RNA-seq dataset
+20768,Sephs2,6587,2549.6667,2.0316,human ortholog not found or not included in human RNA-seq dataset
+78330,Ndufv3,6578.3333,2563,2.0353,human ortholog not found or not included in human RNA-seq dataset
+69597,Afg3l2,6573.3333,2646.6667,2.0009,human ortholog not found or not included in human RNA-seq dataset
+66152,Uqcr10,6509,2179.3333,2.2458,human ortholog not found or not included in human RNA-seq dataset
+12450,Ccng1,6504.6667,4705.6667,1.1715,human ortholog not found or not included in human RNA-seq dataset
+74142,Lonp1,6492.3333,3513.6667,1.5576,NM_001276479,LONP1,0.82,0.39,1.06
+66972,Slc25a23,6486.6667,3266.6667,1.6363,human ortholog not found or not included in human RNA-seq dataset
+71755,Dhdh,6477,4798.6667,1.0686,human ortholog not found or not included in human RNA-seq dataset
+16997,Ltbp2,6370.6667,2120,2.2747,NM_000428,LTBP2,11.43,4.78,1.26
+12869,Cox8b,6362.6667,1031.3333,3.2539,human ortholog not found or not included in human RNA-seq dataset
+75406,Ndufs7,6336,2093.3333,2.2818,human ortholog not found or not included in human RNA-seq dataset
+68342,Ndufb10,6332.6667,2744.3333,1.8897,human ortholog not found or not included in human RNA-seq dataset
+17850,Mut,6305,4162.3333,1.2482,human ortholog not found or not included in human RNA-seq dataset
+15007,H2-Q10,6303,2492.3333,1.9649,human ortholog not found or not included in human RNA-seq dataset
+56462,Mtch1,6298,3872,1.3884,human ortholog not found or not included in human RNA-seq dataset
+433256,Acsl5,6249.3333,3359,1.6363,human ortholog not found or not included in human RNA-seq dataset
+56384,Letm1,6229.3333,2543.6667,1.9898,human ortholog not found or not included in human RNA-seq dataset
+12017,Bag1,6225,4425.6667,1.159,human ortholog not found or not included in human RNA-seq dataset
+97487,Cmtm4,6208.6667,1869.6667,2.3829,human ortholog not found or not included in human RNA-seq dataset
+231070,Insig1,6207.6667,4717.3333,1.0463,human ortholog not found or not included in human RNA-seq dataset
+106529,Tecr,6180.6667,3612,1.4617,human ortholog not found or not included in human RNA-seq dataset
+75475,Oplah,6163,2998.3333,1.6601,human ortholog not found or not included in human RNA-seq dataset
+22334,Vdac2,6157.3333,4276,1.2318,human ortholog not found or not included in human RNA-seq dataset
+14381,G6pdx,6151.6667,4104,1.2413,human ortholog not found or not included in human RNA-seq dataset
+52502,Carhsp1,6138.3333,4791,1.0065,NM_001042476,CARHSP1,0.65,0.3,1.11
+14590,Ggh,6130,1199.6667,2.9741,human ortholog not found or not included in human RNA-seq dataset
+71900,Tmem106b,6119,4127.3333,1.2726,human ortholog not found or not included in human RNA-seq dataset
+17164,Mapkapk2,6037.6667,3673.3333,1.446,human ortholog not found or not included in human RNA-seq dataset
+83945,Dnaja3,6014.6667,2332.3333,2.0501,NM_005147,DNAJA3,5.71,2.4,1.25
+108958,Fam73b,6007.3333,2679.3333,1.8046,human ortholog not found or not included in human RNA-seq dataset
+67130,Ndufa6,5994.6667,2309.3333,2.0671,human ortholog not found or not included in human RNA-seq dataset
+18555,Cdk16,5988.6667,3780,1.3337,human ortholog not found or not included in human RNA-seq dataset
+16438,Itpr1,5969,4142,1.2584,human ortholog not found or not included in human RNA-seq dataset
+58214,Cst10,5963,9.3333,9.9922,human ortholog not found or not included in human RNA-seq dataset
+58805,Mlxipl,5962.6667,2152.6667,2.1051,human ortholog not found or not included in human RNA-seq dataset
+224796,Clic5,5955.6667,1109.6667,3.0701,human ortholog not found or not included in human RNA-seq dataset
+69104,5-Mar,5868.3333,4392.3333,1.0848,human ortholog not found or not included in human RNA-seq dataset
+76187,Adhfe1,5859.6667,4469.3333,1.023,human ortholog not found or not included in human RNA-seq dataset
+225887,Ndufs8,5853.3333,1804.6667,2.3956,human ortholog not found or not included in human RNA-seq dataset
+69046,Isca1,5845.3333,2299.6667,2.0111,human ortholog not found or not included in human RNA-seq dataset
+212647,Aldh4a1,5836.3333,2682.6667,1.7794,human ortholog not found or not included in human RNA-seq dataset
+20193,S100a1,5823.3333,3101.6667,1.5567,human ortholog not found or not included in human RNA-seq dataset
+67452,Pnpla8,5789.3333,4526.3333,1.0164,NM_001256008,PNPLA8,3.3,0.91,1.85
+269642,Nat8l,5731.3333,4069,1.1274,human ortholog not found or not included in human RNA-seq dataset
+70784,Rasl12,5713.3333,2152.3333,2.0254,human ortholog not found or not included in human RNA-seq dataset
+69068,1810011O10Rik,5705,2341,1.9007,human ortholog not found or not included in human RNA-seq dataset
+105559,Mbnl2,5683.6667,4461,1.0208,NM_207304,MBNL2,29.03,7.92,1.87
+66586,Crls1,5671.3333,1469.3333,2.5975,human ortholog not found or not included in human RNA-seq dataset
+67126,Atp5e,5666,2826.6667,1.7035,human ortholog not found or not included in human RNA-seq dataset
+20501,Slc16a1,5657,1582.6667,2.5109,NM_001166496,SLC16A1,0.81,0.27,1.57
+12034,Phb2,5654,3633,1.3591,NM_001267700,PHB2,2.98,1.06,1.49
+30853,Mlf2,5652.3333,4234.3333,1.1019,human ortholog not found or not included in human RNA-seq dataset
+21957,Tnnt3,5615.3333,186.3333,5.6866,NM_001042781,TNNT3,2.33,0,10.79
+21957,Tnnt3,5615.3333,186.3333,5.6866,NM_001042782,TNNT3,1.25,0.34,1.89
+66881,Pcyox1,5593,4242.3333,1.0592,human ortholog not found or not included in human RNA-seq dataset
+17380,Mme,5574.3333,3267,1.404,human ortholog not found or not included in human RNA-seq dataset
+66154,Tmem14c,5568.6667,2009.3333,2.1844,human ortholog not found or not included in human RNA-seq dataset
+329910,Acot11,5553.3333,305,4.8816,human ortholog not found or not included in human RNA-seq dataset
+246277,Csad,5508.6667,4133.3333,1.0573,human ortholog not found or not included in human RNA-seq dataset
+381314,Iars2,5481,3936.6667,1.1539,human ortholog not found or not included in human RNA-seq dataset
+216558,Ugp2,5461.3333,3405.3333,1.349,human ortholog not found or not included in human RNA-seq dataset
+12846,Comt,5444.6667,4180.3333,1.0418,human ortholog not found or not included in human RNA-seq dataset
+56717,Mtor,5439,2827.6667,1.6328,human ortholog not found or not included in human RNA-seq dataset
+22057,Tob1,5428.6667,2812.3333,1.5921,human ortholog not found or not included in human RNA-seq dataset
+320661,D5Ertd579e,5387,4251.3333,1.0011,human ortholog not found or not included in human RNA-seq dataset
+72759,Tmem135,5384.6667,3604.3333,1.2313,human ortholog not found or not included in human RNA-seq dataset
+320795,Pkn1,5376.3333,4000,1.1901,human ortholog not found or not included in human RNA-seq dataset
+110460,Acat2,5348,2523.6667,1.7137,human ortholog not found or not included in human RNA-seq dataset
+112405,Egln1,5327.3333,2480.3333,1.7922,human ortholog not found or not included in human RNA-seq dataset
+224020,Pi4ka,5261.6667,4319.3333,1.0063,human ortholog not found or not included in human RNA-seq dataset
+67895,Ppa1,5234.3333,3964,1.045,human ortholog not found or not included in human RNA-seq dataset
+77559,Agl,5229,1621.6667,2.3591,NM_000643,AGL,1.29,0.13,3.35
+17993,Ndufs4,5213.3333,2030.6667,2.0414,human ortholog not found or not included in human RNA-seq dataset
+66968,Plin5,5201,509,3.96,human ortholog not found or not included in human RNA-seq dataset
+94249,Slc24a3,5198.6667,2174.3333,1.8912,human ortholog not found or not included in human RNA-seq dataset
+72108,Ddhd2,5191.3333,2711.3333,1.5975,human ortholog not found or not included in human RNA-seq dataset
+67811,Poldip2,5189.3333,2697.6667,1.6081,human ortholog not found or not included in human RNA-seq dataset
+68197,Ndufc2,5185.3333,2097.3333,1.9746,NM_001204055,NDUFC2,0.94,0.45,1.06
+27355,Pald1,5156.3333,1318.3333,2.6477,human ortholog not found or not included in human RNA-seq dataset
+17713,Grpel1,5114.6667,2252.6667,1.8553,human ortholog not found or not included in human RNA-seq dataset
+11539,Adora1,5075,3677,1.0783,human ortholog not found or not included in human RNA-seq dataset
+68375,Ndufa8,5070.3333,1769.3333,2.2039,human ortholog not found or not included in human RNA-seq dataset
+67184,Ndufa13,5019.6667,2403.6667,1.751,human ortholog not found or not included in human RNA-seq dataset
+66857,Plbd1,5018.6667,3421.3333,1.3154,human ortholog not found or not included in human RNA-seq dataset
+71982,Snx10,4994,3039.6667,1.3503,human ortholog not found or not included in human RNA-seq dataset
+72416,Lrpprc,4976,2145,1.9329,human ortholog not found or not included in human RNA-seq dataset
+97820,4833439L19Rik,4966.6667,3051.6667,1.3762,NM_001079685,KIAA1191,2.49,1.13,1.14
+230075,Ndufb6,4944,1500.3333,2.3938,human ortholog not found or not included in human RNA-seq dataset
+21672,Prdx2,4923.3333,3258.3333,1.2823,human ortholog not found or not included in human RNA-seq dataset
+73095,Slc25a42,4903,906.3333,3.1136,human ortholog not found or not included in human RNA-seq dataset
+57296,Psmd8,4893.6667,3456.3333,1.2126,human ortholog not found or not included in human RNA-seq dataset
+241556,Tspan18,4886.3333,1347.6667,2.4914,human ortholog not found or not included in human RNA-seq dataset
+22003,Tpm1,4871,2127.6667,1.9347,human ortholog not found or not included in human RNA-seq dataset
+94044,Bcl2l13,4855.6667,3146.6667,1.3129,NM_001270733,BCL2L13,6.8,3.36,1.02
+231413,Grsf1,4810.6667,2331,1.7303,human ortholog not found or not included in human RNA-seq dataset
+70599,Ssfa2,4762.6667,2509,1.6164,human ortholog not found or not included in human RNA-seq dataset
+109294,Prex2,4736,2488.6667,1.5556,NM_025170,PREX2,0.69,0.07,3.28
+109294,Prex2,4736,2488.6667,1.5556,NM_024870,PREX2,1.86,0.51,1.87
+225791,Zadh2,4719.6667,2542.3333,1.5864,human ortholog not found or not included in human RNA-seq dataset
+233870,Tufm,4711,2018,1.9183,human ortholog not found or not included in human RNA-seq dataset
+246747,Adig,4695.3333,2838,1.3563,human ortholog not found or not included in human RNA-seq dataset
+12865,Cox7a1,4692.3333,329.6667,4.4629,human ortholog not found or not included in human RNA-seq dataset
+53412,Ppp1r3c,4688.3333,994.3333,2.8337,human ortholog not found or not included in human RNA-seq dataset
+99138,Stard7,4687.3333,3310.6667,1.2273,human ortholog not found or not included in human RNA-seq dataset
+70316,Ndufab1,4676.3333,1426.3333,2.3817,human ortholog not found or not included in human RNA-seq dataset
+73130,Tmed5,4675,3692.6667,1.0129,NM_001167830,TMED5,1.77,0.62,1.52
+73078,Pmpcb,4672,2496.6667,1.5761,human ortholog not found or not included in human RNA-seq dataset
+26922,Mecr,4628.3333,1447.3333,2.3254,human ortholog not found or not included in human RNA-seq dataset
+13184,Dcpp1,4621.3333,5.3333,10.4069,human ortholog not found or not included in human RNA-seq dataset
+20893,Bhlhe40,4605.6667,1845.3333,2.0021,human ortholog not found or not included in human RNA-seq dataset
+66734,Map1lc3a,4579.3333,2678.3333,1.408,human ortholog not found or not included in human RNA-seq dataset
+20480,Clpb,4568.3333,1837,1.9725,human ortholog not found or not included in human RNA-seq dataset
+74868,Tmem65,4536.3333,1973.6667,1.8847,human ortholog not found or not included in human RNA-seq dataset
+67054,Paics,4533.6667,3487,1.0956,human ortholog not found or not included in human RNA-seq dataset
+319263,Pcmtd1,4530,3498.6667,1.0656,human ortholog not found or not included in human RNA-seq dataset
+66495,Ndufb3,4526.6667,2075,1.7951,human ortholog not found or not included in human RNA-seq dataset
+70209,Tmem143,4520,1480,2.253,human ortholog not found or not included in human RNA-seq dataset
+26926,Aifm1,4518.3333,1637.6667,2.1429,human ortholog not found or not included in human RNA-seq dataset
+26458,Slc27a2,4514.6667,172.3333,5.3596,NM_003645,SLC27A2,2.65,0.16,4.05
+224824,Pex6,4493.3333,2416.3333,1.5828,human ortholog not found or not included in human RNA-seq dataset
+12867,Cox7c,4435.6667,2024.6667,1.811,human ortholog not found or not included in human RNA-seq dataset
+11861,Arl4a,4431.3333,3409.6667,1.02,human ortholog not found or not included in human RNA-seq dataset
+18844,Plxna1,4427.6667,2520.3333,1.4818,human ortholog not found or not included in human RNA-seq dataset
+14609,Gja1,4398,1401.3333,2.2983,human ortholog not found or not included in human RNA-seq dataset
+18213,Ntrk3,4361.3333,759.3333,3.1608,human ortholog not found or not included in human RNA-seq dataset
+232370,Clstn3,4358,539.6667,3.665,human ortholog not found or not included in human RNA-seq dataset
+17901,Myl1,4332,906.6667,2.9105,human ortholog not found or not included in human RNA-seq dataset
+56506,Cib2,4319.3333,2305.3333,1.5498,human ortholog not found or not included in human RNA-seq dataset
+52637,Cisd1,4315.3333,1559.3333,2.1184,human ortholog not found or not included in human RNA-seq dataset
+67442,Retsat,4291.3333,2947,1.1743,human ortholog not found or not included in human RNA-seq dataset
+56209,Gde1,4291,2638,1.3674,human ortholog not found or not included in human RNA-seq dataset
+23980,Pebp1,4283.3333,2791.3333,1.3074,human ortholog not found or not included in human RNA-seq dataset
+23986,Eci2,4276.3333,2653.6667,1.358,human ortholog not found or not included in human RNA-seq dataset
+19735,Rgs2,4274.6667,1177.3333,2.6206,NM_002923,RGS2,35.48,13.11,1.44
+52551,Sgta,4271,3233.3333,1.0766,human ortholog not found or not included in human RNA-seq dataset
+67863,Slc25a11,4264.6667,2623.3333,1.4219,NM_001165417,SLC25A11,2.53,1.04,1.29
+64297,Gprc5b,4189,3136,1.0524,human ortholog not found or not included in human RNA-seq dataset
+56282,Mrpl12,4188,1975.3333,1.7696,human ortholog not found or not included in human RNA-seq dataset
+19177,Psmb7,4179.6667,3273,1.0477,human ortholog not found or not included in human RNA-seq dataset
+13171,Dbt,4174.6667,2835,1.2096,human ortholog not found or not included in human RNA-seq dataset
+97998,Deptor,4170,2409,1.4304,human ortholog not found or not included in human RNA-seq dataset
+29812,Ndrg3,4160,2916,1.2276,human ortholog not found or not included in human RNA-seq dataset
+208715,Hmgcs1,4150.6667,2789.6667,1.2529,human ortholog not found or not included in human RNA-seq dataset
+66771,Gid4,4148.6667,2258,1.5653,human ortholog not found or not included in human RNA-seq dataset
+109731,Maob,4118.3333,2202.6667,1.5401,NM_000898,MAOB,14.15,5,1.5
+54405,Ndufa1,4112.6667,1616,2.0214,human ortholog not found or not included in human RNA-seq dataset
+22210,Ube2b,4101.6667,2882.3333,1.2274,human ortholog not found or not included in human RNA-seq dataset
+66148,Dnajc15,4078.6667,2002.3333,1.6992,human ortholog not found or not included in human RNA-seq dataset
+67636,Lyrm5,4076.3333,1313.3333,2.2944,human ortholog not found or not included in human RNA-seq dataset
+15925,Ide,4074,2281.3333,1.5295,human ortholog not found or not included in human RNA-seq dataset
+52815,Ldhd,4048.6667,1008.6667,2.6333,human ortholog not found or not included in human RNA-seq dataset
+107734,Mrpl30,4036,1729,1.9139,human ortholog not found or not included in human RNA-seq dataset
+217837,Itpk1,4031.6667,1152,2.5345,human ortholog not found or not included in human RNA-seq dataset
+381820,2700089E24Rik,4025.3333,3030.6667,1.0741,human ortholog not found or not included in human RNA-seq dataset
+66626,Cdip1,3996,2589,1.3072,human ortholog not found or not included in human RNA-seq dataset
+20917,Suclg2,3986.6667,2419.3333,1.3954,human ortholog not found or not included in human RNA-seq dataset
+17991,Ndufa2,3950,2262.6667,1.4839,human ortholog not found or not included in human RNA-seq dataset
+28030,Gfm1,3942,1461.3333,2.1183,human ortholog not found or not included in human RNA-seq dataset
+18642,Pfkm,3940.3333,878.6667,2.8439,NM_001166688,PFKM,0.75,0.28,1.44
+74781,Wipi2,3899.6667,2554.6667,1.3184,human ortholog not found or not included in human RNA-seq dataset
+23921,Sh2b2,3893,1149.6667,2.4095,human ortholog not found or not included in human RNA-seq dataset
+66416,Ndufa7,3888.3333,2045.3333,1.6029,human ortholog not found or not included in human RNA-seq dataset
+216805,Flcn,3871.3333,1875.3333,1.7699,human ortholog not found or not included in human RNA-seq dataset
+11571,Crisp1,3861,6,9.9852,human ortholog not found or not included in human RNA-seq dataset
+229517,Slc25a44,3858.3333,2403.6667,1.3457,human ortholog not found or not included in human RNA-seq dataset
+26379,Esrra,3855.6667,1449.6667,2.1067,human ortholog not found or not included in human RNA-seq dataset
+12041,Bckdk,3843.3333,2104,1.5458,human ortholog not found or not included in human RNA-seq dataset
+20866,Stim1,3842.3333,2953.3333,1.0819,human ortholog not found or not included in human RNA-seq dataset
+433771,Minos1,3824,1761.6667,1.8176,NR_033758,MINOS1,3.33,0.63,2.4
+18673,Phb,3817.6667,2020.6667,1.607,human ortholog not found or not included in human RNA-seq dataset
+114600,Gm4736,3817.3333,7,9.7469,human ortholog not found or not included in human RNA-seq dataset
+68778,Gucd1,3804.3333,2051,1.6239,human ortholog not found or not included in human RNA-seq dataset
+11732,Ank,3784,1724.3333,1.8145,human ortholog not found or not included in human RNA-seq dataset
+74287,Kcmf1,3777.6667,2224.6667,1.4647,human ortholog not found or not included in human RNA-seq dataset
+27402,Pdhx,3775.3333,1506.6667,1.9944,human ortholog not found or not included in human RNA-seq dataset
+66905,Plin3,3761,1726.6667,1.8112,human ortholog not found or not included in human RNA-seq dataset
+104111,Adcy3,3758,1072,2.4742,human ortholog not found or not included in human RNA-seq dataset
+56752,Aldh9a1,3757.6667,2815,1.0912,human ortholog not found or not included in human RNA-seq dataset
+235169,Foxred1,3756.3333,1512.3333,2.0004,human ortholog not found or not included in human RNA-seq dataset
+14252,Flot2,3751.6667,2430.3333,1.2981,human ortholog not found or not included in human RNA-seq dataset
+11958,Atp5k,3730.6667,1749.3333,1.7722,human ortholog not found or not included in human RNA-seq dataset
+18777,Lypla1,3716,2641,1.1898,human ortholog not found or not included in human RNA-seq dataset
+407785,Ndufs6,3711.6667,1220,2.2873,human ortholog not found or not included in human RNA-seq dataset
+72931,Swi5,3702.3333,2642.3333,1.165,human ortholog not found or not included in human RNA-seq dataset
+16332,Inppl1,3698,2460,1.2523,human ortholog not found or not included in human RNA-seq dataset
+21906,Otop1,3682.6667,380,3.8804,human ortholog not found or not included in human RNA-seq dataset
+69634,Clybl,3677,1613.3333,1.8309,human ortholog not found or not included in human RNA-seq dataset
+238871,Pde4d,3664.6667,895,2.7493,human ortholog not found or not included in human RNA-seq dataset
+210582,Coq10a,3656.3333,779,2.9214,human ortholog not found or not included in human RNA-seq dataset
+12715,Ckm,3644.6667,80,6.2468,human ortholog not found or not included in human RNA-seq dataset
+66916,Ndufb7,3643.6667,1678,1.8137,human ortholog not found or not included in human RNA-seq dataset
+66375,Dhrs7,3582.6667,1999.6667,1.5075,human ortholog not found or not included in human RNA-seq dataset
+21856,Timm44,3565.3333,1734.3333,1.7432,human ortholog not found or not included in human RNA-seq dataset
+102436,Lars2,3563.3333,2211,1.3897,human ortholog not found or not included in human RNA-seq dataset
+83679,Pde4dip,3532.3333,2802.3333,1.0487,human ortholog not found or not included in human RNA-seq dataset
+246782,Atpaf2,3532,1503.3333,1.8989,human ortholog not found or not included in human RNA-seq dataset
+71998,Slc25a35,3530.3333,1246.6667,2.1598,human ortholog not found or not included in human RNA-seq dataset
+14467,Gbas,3516.3333,2642.3333,1.0858,human ortholog not found or not included in human RNA-seq dataset
+217707,Coq6,3511,788.6667,2.8358,human ortholog not found or not included in human RNA-seq dataset
+15528,Hspe1,3502.3333,2218.6667,1.3769,human ortholog not found or not included in human RNA-seq dataset
+70296,Tbc1d13,3489,2802.6667,1.007,human ortholog not found or not included in human RNA-seq dataset
+59022,Edf1,3479,2464.3333,1.2005,human ortholog not found or not included in human RNA-seq dataset
+270166,Clpx,3473,1919.6667,1.5337,human ortholog not found or not included in human RNA-seq dataset
+105501,Abhd4,3468.6667,1963.6667,1.4867,human ortholog not found or not included in human RNA-seq dataset
+14151,Fech,3456,2603.6667,1.0597,human ortholog not found or not included in human RNA-seq dataset
+11812,Apoc1,3453.6667,1475,1.8779,human ortholog not found or not included in human RNA-seq dataset
+12632,Cfl2,3441,2363.3333,1.2082,NM_001243645,CFL2,8.13,3.84,1.08
+18712,Pim1,3440.6667,879.6667,2.7418,human ortholog not found or not included in human RNA-seq dataset
+18648,Pgam1,3436,1336.3333,2.04,human ortholog not found or not included in human RNA-seq dataset
+22042,Tfrc,3426.3333,1982.3333,1.4837,human ortholog not found or not included in human RNA-seq dataset
+19293,Pvalb,3425.3333,97.3333,5.8632,human ortholog not found or not included in human RNA-seq dataset
+269823,Pon3,3410,2504,1.0798,human ortholog not found or not included in human RNA-seq dataset
+68133,Gcsh,3404.3333,1459.6667,1.8727,human ortholog not found or not included in human RNA-seq dataset
+106581,Itfg3,3392,1977.6667,1.444,human ortholog not found or not included in human RNA-seq dataset
+108099,Prkag2,3382,1522.6667,1.8369,human ortholog not found or not included in human RNA-seq dataset
+66477,Usmg5,3379.3333,1369.6667,1.9816,human ortholog not found or not included in human RNA-seq dataset
+22340,Vegfb,3375.6667,2281.3333,1.2136,human ortholog not found or not included in human RNA-seq dataset
+66383,Iscu,3374.3333,2211,1.3028,human ortholog not found or not included in human RNA-seq dataset
+56298,Atl2,3365.6667,2402,1.157,human ortholog not found or not included in human RNA-seq dataset
+71947,2310067B10Rik,3349,1736,1.655,human ortholog not found or not included in human RNA-seq dataset
+67809,Rmdn3,3338.6667,1815.6667,1.5411,human ortholog not found or not included in human RNA-seq dataset
+19737,Rgs5,3315.3333,2132,1.3269,human ortholog not found or not included in human RNA-seq dataset
+13663,Ei24,3315,2544.3333,1.0742,human ortholog not found or not included in human RNA-seq dataset
+15254,Hint1,3310.6667,2465.3333,1.1358,human ortholog not found or not included in human RNA-seq dataset
+66414,Ndufa12,3303.3333,1287,2.0324,human ortholog not found or not included in human RNA-seq dataset
+74610,Abcb8,3302.6667,1310.6667,2.001,human ortholog not found or not included in human RNA-seq dataset
+114301,Palmd,3297.6667,2353,1.1334,human ortholog not found or not included in human RNA-seq dataset
+18187,Nrp2,3285.3333,2026,1.4147,human ortholog not found or not included in human RNA-seq dataset
+83962,Btbd1,3282,2281.6667,1.2236,human ortholog not found or not included in human RNA-seq dataset
+22229,Ucp3,3280.3333,1379.3333,1.8534,human ortholog not found or not included in human RNA-seq dataset
+15108,Hsd17b10,3259,2197.6667,1.2473,human ortholog not found or not included in human RNA-seq dataset
+17748,Mt1,3243,1791,1.5055,human ortholog not found or not included in human RNA-seq dataset
+67270,Mrpl42,3232,1166.6667,2.1549,NM_172177,MRPL42,8.08,3.19,1.34
+66493,Mrpl51,3227.6667,1622.6667,1.668,human ortholog not found or not included in human RNA-seq dataset
+70257,2010107E04Rik,3226,1592,1.7167,human ortholog not found or not included in human RNA-seq dataset
+68267,Slc25a22,3225.3333,2268,1.1775,human ortholog not found or not included in human RNA-seq dataset
+104816,Aspg,3218,190.6667,4.7329,human ortholog not found or not included in human RNA-seq dataset
+231440,Parm1,3211,716.3333,2.8177,NM_015393,PARM1,22.31,3.12,2.84
+20971,Sdc4,3207.6667,1393.6667,1.9506,human ortholog not found or not included in human RNA-seq dataset
+27357,Gyg,3201,2453.6667,1.0672,NM_001184721,GYG1,5,2.45,1.03
+224904,2410015M20Rik,3200.6667,1547.3333,1.7432,human ortholog not found or not included in human RNA-seq dataset
+68202,Ndufa5,3188.3333,1044.3333,2.2833,human ortholog not found or not included in human RNA-seq dataset
+22084,Tsc2,3183.3333,2422,1.0888,human ortholog not found or not included in human RNA-seq dataset
+264895,Acsf2,3178,2177.3333,1.2399,human ortholog not found or not included in human RNA-seq dataset
+20216,Acsm3,3169.3333,1064.6667,2.1748,human ortholog not found or not included in human RNA-seq dataset
+67528,Nudt7,3157.3333,1321,1.9092,human ortholog not found or not included in human RNA-seq dataset
+66091,Ndufa3,3157,1569.6667,1.6946,human ortholog not found or not included in human RNA-seq dataset
+70397,Tmem70,3149.3333,1530.6667,1.7193,human ortholog not found or not included in human RNA-seq dataset
+14651,Hagh,3148,1683.6667,1.5624,human ortholog not found or not included in human RNA-seq dataset
+14933,Gyk,3142,371,3.7816,human ortholog not found or not included in human RNA-seq dataset
+55951,Mpc1,3137,1142.6667,2.1156,human ortholog not found or not included in human RNA-seq dataset
+66377,Ndufc1,3134,1082.3333,2.204,NM_001184989,NDUFC1,2.15,0.78,1.47
+66377,Ndufc1,3134,1082.3333,2.204,NM_001184991,NDUFC1,6.9,3.42,1.01
+66390,Slmo2,3132,1338.6667,1.9349,NM_001256403,SLMO2,13.62,3.54,1.94
+72948,Tppp,3130.6667,1629.6667,1.5704,human ortholog not found or not included in human RNA-seq dataset
+226744,Cnst,3122.3333,1737.3333,1.5459,human ortholog not found or not included in human RNA-seq dataset
+71743,Coasy,3119,1779.6667,1.4809,human ortholog not found or not included in human RNA-seq dataset
+320717,Pptc7,3117,1785.6667,1.5563,human ortholog not found or not included in human RNA-seq dataset
+21925,Tnnc2,3098.3333,107.6667,5.5793,human ortholog not found or not included in human RNA-seq dataset
+66587,Fastk,3088.6667,1657.6667,1.6087,human ortholog not found or not included in human RNA-seq dataset
+80748,BC004004,3070.6667,2176,1.1884,human ortholog not found or not included in human RNA-seq dataset
+20597,Smpd1,3061.3333,2006.3333,1.2779,NM_001007593,SMPD1,3.44,1.11,1.64
+18550,Furin,3060.3333,2241.6667,1.1454,human ortholog not found or not included in human RNA-seq dataset
