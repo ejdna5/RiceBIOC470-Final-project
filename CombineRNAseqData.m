@@ -41,7 +41,7 @@ end
 mouse_WATvsSCBAT_Log_Ratio=log2(mouse_WATvsSCBAT_FoldChange);
 %invert to get ratio of scBAT/WAT
 mouse_SCBATvsWAT_Log_Ratio=0-mouse_WATvsSCBAT_Log_Ratio;
-mouse_SCBATvsWAT_Pvalue=str2double(mouseScBATvsIBAT(2:end,6));
+mouse_SCBATvsWAT_Pvalue=str2double(mouseWATvsScBAT(2:end,6));
 mouse_SCBATvsWAT_table=table(Entrez_ID,Gene,mouse_scBAT_mean_count,mouse_WAT_mean_count,mouse_SCBATvsWAT_Log_Ratio,mouse_SCBATvsWAT_Pvalue);
 
 %put it all together in one table

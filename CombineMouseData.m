@@ -79,3 +79,4 @@ Beige1intensity=beige1int';
 Beige2intensity=beige2int';
 Beige3intensity=beige3int';
 CombinedMouseData_table=table(Entrez,Gene,scBATcounts,iBATcounts,WATcounts,Brown1intensity,Brown2intensity,Brown3intensity,Beige1intensity,Beige2intensity,Beige3intensity); 
+save('CombinedMouseData_workspace.mat');

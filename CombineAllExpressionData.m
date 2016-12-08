@@ -1,5 +1,4 @@
 % Note: this script requires workspace from running CombineMouseData.m 
-% (CombinedMouse_RNAseq_Data_cumulativeWorkspace.mat)
 
 %write file containing combined mouse data with human data for all genes in human
 %dataset that map to mouse (average all intensities for same gene in each microarray dataset)
@@ -54,5 +53,5 @@ human_refseq=hID';
 human_gene=hGene';
 counts_humanSCBAT=hSCBATcount';
 counts_humanWAT=hWATcount';
-CombinedMouseData_table=table(mouse_entrez,mouse_gene,counts_mouseSCBAT,counts_mouseIBAT,counts_mouseWAT,intensity_mouseBrown1,intensity_mouseBrown2,intensity_mouseBrown3,intensity_mouseBeige1,intensity_mouseBeige2,intensity_mouseBeige3,human_refseq,human_gene,counts_humanSCBAT,counts_humanWAT); 
-save('CombinedMouse_RNAseq_Data_cumulativeWorkspace.mat');
+CombinedAllData_table=table(mouse_entrez,mouse_gene,counts_mouseSCBAT,counts_mouseIBAT,counts_mouseWAT,intensity_mouseBrown1,intensity_mouseBrown2,intensity_mouseBrown3,intensity_mouseBeige1,intensity_mouseBeige2,intensity_mouseBeige3,human_refseq,human_gene,counts_humanSCBAT,counts_humanWAT); 
+save('CombinedAllExpression_cumulativeWorkspace.mat');
